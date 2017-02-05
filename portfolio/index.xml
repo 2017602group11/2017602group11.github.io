@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on LongHorn Consolidation Project</title>
+    <link>https://example.org/portfolio/index.xml</link>
+    <description>Recent content in Portfolios on LongHorn Consolidation Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Group 11 ISYS-602</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <atom:link href="https://example.org/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project Summary</title>
+      <link>https://example.org/portfolio/project_summary/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/project_summary/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://example.org/files/project_summary.pdf&#34; target=&#34;_blank&#34;&gt;[Download as pdf]&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&#34;https://example.org/files/project_summary.docx&#34; target=&#34;_blank&#34;&gt;[Download as doc]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Longhorn Bank is in need of several changes to their business applications. They need these applications to be consolidated. They have many different systems that provide everything from personal bank accounts to merchant services. All these applications have different authentication logins and a different user interface. We will need to create a single sign on so that any application may be accessed through the same login as well as creating a uniform interface for all applications.&lt;/p&gt;
+
+&lt;p&gt;Just like many other businesses these days, Longhorn Bank would like all of the applications to also operate on mobile. We will be in charge of purchasing the infrastructure so that this migration can take place. We will also be creating a new web application so that the all the applications are integrated to provide a dashboard on employee performance. Both the mobile migration and new application are a means to help track and reduce TAT. Over the course of 7 months we will need to complete all of the tasks above. The infrastructure and implementations of the total project has a budget of $120,000.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Project Team Contract</title>
+      <link>https://example.org/portfolio/team_contract/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/team_contract/</guid>
+      <description>&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+&lt;/p&gt;
+
+&lt;h1 id=&#34;project-team-contract&#34;&gt;&lt;strong&gt;Project Team Contract&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;Team Name       602-Group 11&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Project Title   Longhorn Banking Consolidation Project
+  Team Members    &lt;img src=&#34;media/image1.jpeg&#34; alt=&#34;&#34; /&gt;{width=&amp;ldquo;0.5833333333333334in&amp;rdquo; height=&amp;ldquo;0.5520833333333334in&amp;rdquo;}
+                  &lt;img src=&#34;media/image2.jpeg&#34; alt=&#34;&#34; /&gt;{width=&amp;ldquo;0.49166666666666664in&amp;rdquo; height=&amp;ldquo;0.5625in&amp;rdquo;}
+                  &lt;img src=&#34;media/image3.jpeg&#34; alt=&#34;C:\\Users\\rafip\\AppData\\Local\\Microsoft\\Windows\\INetCacheContent.Word\\dp.jpg&#34; /&gt;{width=&amp;ldquo;0.5166666666666667in&amp;rdquo; height=&amp;ldquo;0.5166666666666667in&amp;rdquo;}&lt;/p&gt;
+
+&lt;h1 id=&#34;purpose&#34;&gt;Purpose&lt;/h1&gt;
+
+&lt;p&gt;The purpose of this project team contract is to outline all the
+guidelines that need to be followed by each team member throughout
+project. All the guidelines mentioned in the contract would help to
+monitor the status of task assigned to each member and will ensure that
+each member is contributing their part to full extent. It covers all the
+clauses related to team communication, code of conducts and conflict
+resolution in case there will be any discrepancy among team members.
+This also ensure that the tasks will be divided equally and delivered as
+per schedule. The contract has a peer evaluation form to rate
+performance of each of the team members.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;h1 id=&#34;terms-of-team-contract&#34;&gt;Terms of Team Contract&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Code of Conduct&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We agree to:&lt;/p&gt;
+
+&lt;p&gt;a.  treat every other team member with due respect.&lt;/p&gt;
+
+&lt;p&gt;b.  be open and honest in dealing with other team members.&lt;/p&gt;
+
+&lt;p&gt;c.  be open to every view from team members, even if it is conflicting.&lt;/p&gt;
+
+&lt;p&gt;d.  keep other team members informed of information related to the
+    project and its progress.&lt;/p&gt;
+
+&lt;p&gt;e.  see the team project through to completion in due time.&lt;/p&gt;
+
+&lt;p&gt;f.  respect the confidentiality of our project and share necessary
+    information with team members only.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.  ### Communication
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We agree to:&lt;/p&gt;
+
+&lt;p&gt;a.  decide as a team on the best mode to communicate various
+    project/team related information.&lt;/p&gt;
+
+&lt;p&gt;b.  decide as a team on the timings and schedules of all our team
+    meetings.&lt;/p&gt;
+
+&lt;p&gt;c.  attend all the team meetings on time.&lt;/p&gt;
+
+&lt;p&gt;d.  inform the team at least 4 hours in advance, if we will not be able
+    to attend any of the team meetings or will be running late for the
+    meeting.&lt;/p&gt;
+
+&lt;p&gt;e.  arrange additional meetings or extend discussion, as needed and
+    agreed upon by the entire team.&lt;/p&gt;
+
+&lt;p&gt;f.  present ideas concisely and clearly to everyone in the team.&lt;/p&gt;
+
+&lt;p&gt;g.  keep discussions on track.&lt;/p&gt;
+
+&lt;p&gt;h.  read communications (emails, texts, meeting minutes, action items,
+    etc.) from each other and respond to each other in a timely manner
+    (i.e. within 24 hours).&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.  ### Decision Making
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We agree to:&lt;/p&gt;
+
+&lt;p&gt;a.  keep all ideas and pointers from all team members open until final
+    consensus decision is taken by the group.&lt;/p&gt;
+
+&lt;p&gt;b.  give equal weightage to inputs from all team members in
+    decision-making process.&lt;/p&gt;
+
+&lt;p&gt;c.  go with any decision that is best in the interest of the whole
+    project team and beyond any preference to an individual member.&lt;/p&gt;
+
+&lt;p&gt;d.  discuss decision-making criteria (time, resources, impact, etc) in
+    team before opting for a choice.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.  ### Responsibility
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We agree to:&lt;/p&gt;
+
+&lt;p&gt;a.  complete our assigned tasks before due date. If for any unforeseen
+    reason, we are running behind schedule, we agree to notify the team
+    beforehand.&lt;/p&gt;
+
+&lt;p&gt;b.  to inform the team swiftly in case difficult or unclear
+    responsibilities are assigned.&lt;/p&gt;
+
+&lt;p&gt;c.  own our mistakes and notify team of any possible risks.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.  ### Participation
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We agree to:&lt;/p&gt;
+
+&lt;p&gt;a.  provide opportunity for equal participation throughout the project’s
+    timeline.&lt;/p&gt;
+
+&lt;p&gt;b.  encourage diversity of opinions in discussions.&lt;/p&gt;
+
+&lt;p&gt;c.  avoid placing blames. Instead, we agree to discuss what went wrong
+    and how things can be improved.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.  ### Leadership
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We agree to:&lt;/p&gt;
+
+&lt;p&gt;a.  entrust meeting facilitator with the responsibility of leading every
+    meeting process from compiling its agenda through directing the
+    smooth flow of the meeting.&lt;/p&gt;
+
+&lt;!-- --&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;h1 id=&#34;division-of-labor-group-roles&#34;&gt;Division of labor/Group Roles&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Project Lead&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- --&gt;
+
+&lt;p&gt;a.  Keep track of all deliverables and submit them&lt;/p&gt;
+
+&lt;p&gt;b.  Distribute tasks that are not already defined&lt;/p&gt;
+
+&lt;p&gt;c.  Maintain a timeline to ensure on-time completion&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.  ### Publishing Supervisor
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;!-- --&gt;
+
+&lt;p&gt;a.  Ensure that all documents meet requirements&lt;/p&gt;
+
+&lt;p&gt;b.  Suggest any corrections that need to be made&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.  ### Note Taker
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;!-- --&gt;
+
+&lt;p&gt;a.  Keep all material related to project&lt;/p&gt;
+
+&lt;p&gt;b.  Add new material from meetings and allow access to all other members&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We will rotate jobs so that everyone gets to experience a different
+role and gain more experience with project management.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;h1 id=&#34;guidelines&#34;&gt;Guidelines&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;### Meeting and communication&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- --&gt;
+
+&lt;p&gt;a.  Team meetings will be held on every Friday at 1 pm.&lt;/p&gt;
+
+&lt;p&gt;b.  Meetings will be organized by meeting facilitator, who will be
+    selected on rotation basis.&lt;/p&gt;
+
+&lt;p&gt;c.  Additional meeting times can be requested, but must be approved by
+    the other members.&lt;/p&gt;
+
+&lt;p&gt;d.  Team members must be on time and let the team know in advance of the
+    meeting if they will be late or any reason&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1.  ### Conflict resolution
+
+    Conflicts will be resolved through constructive discussions and
+    exploring common ground. In case the conflict remains
+    unresolved, we may take up the matter to the instructor.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;rewards-and-punishments&#34;&gt;Rewards and Punishments&lt;/h1&gt;
+
+&lt;p&gt;Provision for rewarding good work by team members:&lt;/p&gt;
+
+&lt;p&gt;a.  Every team meeting will conclude with a recognition session.&lt;/p&gt;
+
+&lt;p&gt;b.  The team member with best recognition (or most number of
+    recognitions) will feature on “Star of the week” section of the
+    tracker/website.&lt;/p&gt;
+
+&lt;p&gt;Provision for punishment in case of any discrepancy by team members:&lt;/p&gt;
+
+&lt;p&gt;a.  Failing to abide by any of the aforementioned terms of team contract
+    by any team member, will result in a penalty point against the team
+    member.&lt;/p&gt;
+
+&lt;p&gt;b.  Each penalty point will cost \$5, which will be redeemed every
+    fortnight and the team will be treated with it.&lt;/p&gt;
+
+&lt;p&gt;c.  5 penalty points will additionally result in reporting the
+    instructor about the misdemeanors of team member.&lt;/p&gt;
+
+&lt;h1 id=&#34;provision-for-modification-in-team-contract&#34;&gt;Provision for Modification in Team Contract&lt;/h1&gt;
+
+&lt;p&gt;Any recommendation to modify the terms of contract will be subject to
+review and consensus with entire team. These recommendations will be
+reviewed based on their impact and benefit for the entire team.&lt;/p&gt;
+
+&lt;h1 id=&#34;declarations&#34;&gt;Declarations&lt;/h1&gt;
+
+&lt;p&gt;I have read the terms of the team contract and I agree to abide these
+terms.&lt;/p&gt;
+
+&lt;p&gt;Name:  ……………………………………………. Signature: …………………………. Date:  ……………………………&lt;/p&gt;
+
+&lt;p&gt;Name:  ……………………………………………. Signature: …………………………. Date:  ……………………………&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Name:  ……………………………………………. Signature: …………………………. Date:  ……………………………&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Peer&lt;/strong&gt; &lt;strong&gt;evaluation&lt;/strong&gt; &lt;strong&gt;form&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Each team member will give the other members points on a scale from 0 –
+20, 20 being the best.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;ISYS 630&lt;/strong&gt;        &lt;strong&gt;Section 602&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Project Title&lt;/strong&gt;   &lt;strong&gt;Longhorn Banking Consolidation Project&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Name&lt;/strong&gt;            Connor Hirt&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Effort&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Punctuality&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Teamwork&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Learning&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Work Quality&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Total&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code&gt;                  /100
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
