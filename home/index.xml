@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on LongHorn Web Consolidation Project</title>
+    <link>https://2017602group11.github.io/home/index.xml</link>
+    <description>Recent content in Homes on LongHorn Web Consolidation Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 ISYS-630-602 Group 11</copyright>
+    <lastBuildDate>Thu, 04 Feb 2016 21:05:33 +0530</lastBuildDate>
+    <atom:link href="https://2017602group11.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Project Documents</title>
+      <link>https://2017602group11.github.io/home/</link>
+      <pubDate>Thu, 04 Feb 2016 21:05:33 +0530</pubDate>
+      
+      <guid>https://2017602group11.github.io/home/</guid>
+      <description>&lt;table style=&#34;width:100%&#34;&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Firstname&lt;/th&gt;
+    &lt;th&gt;Lastname&lt;/th&gt; 
+    &lt;th&gt;Age&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Jill&lt;/td&gt;
+    &lt;td&gt;Smith&lt;/td&gt; 
+    &lt;td&gt;50&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Eve&lt;/td&gt;
+    &lt;td&gt;Jackson&lt;/td&gt; 
+    &lt;td&gt;94&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -22,6 +22,16 @@
   </url>
   
   <url>
+    <loc>https://2017602group11.github.io/home/</loc>
+    <lastmod>2016-02-04T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://2017602group11.github.io/</loc>
+    <lastmod>2016-02-04T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://2017602group11.github.io/about/</loc>
     <lastmod>2016-02-04T21:05:33+05:30</lastmod>
     <priority>0</priority>
@@ -30,6 +40,12 @@
   <url>
     <loc>https://2017602group11.github.io/contact/</loc>
     <lastmod>2017-02-04T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://2017602group11.github.io/home/</loc>
+    <lastmod>2016-02-04T21:05:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
